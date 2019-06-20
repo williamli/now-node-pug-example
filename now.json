@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "now-node-pug",
+    "name": "now-node-pug-example",
     "builds": [
         { 
           "src": "index.js", 

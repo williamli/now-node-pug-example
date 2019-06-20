@@ -1,21 +1,21 @@
 {
-  "name": "now-node-pug",
+  "name": "now-node-pug-example",
   "version": "1.0.0",
   "description": "",
-  "main": "pug.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zepport/now-node-pug.git"
+    "url": "git+https://github.com/williamli/now-node-pug-example.git"
   },
-  "author": "",
+  "author": "William Li <email@williamli.dev> (https://williamli.dev)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zepport/now-node-pug/issues"
+    "url": "https://github.com/williamli/now-node-pug-example/issues"
   },
-  "homepage": "https://github.com/zepport/now-node-pug#readme",
+  "homepage": "https://github.com/williamli/now-node-pug-example#readme",
   "dependencies": {
     "pug": "^2.0.4"
   }
