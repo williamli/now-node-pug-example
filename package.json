@@ -1,0 +1,22 @@
+{
+  "name": "now-node-pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zepport/now-node-pug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zepport/now-node-pug/issues"
+  },
+  "homepage": "https://github.com/zepport/now-node-pug#readme",
+  "dependencies": {
+    "pug": "^2.0.4"
+  }
+}
